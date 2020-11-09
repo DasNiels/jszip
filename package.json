@@ -1,6 +1,6 @@
 {
   "name": "jszip-zipcrypto",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "author": "Stuart Knightley <stuart@stuartk.com>",
   "description": "Create, read and edit .zip files with Javascript http://stuartk.com/jszip",
   "scripts": {
